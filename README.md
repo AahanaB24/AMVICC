@@ -47,7 +47,7 @@ The above code is specific to each model outlined but can be adjusted to work fo
 Our AMVICC Benchmark is available [here](https://github.com/AahanaB24/AMVICC/blob/main/scripts/AMVICC.csv). It is specially crafted to measure **multimodal LLM's** visual capability via VQA and **image generation model's** visual capabilities through image generation. 
 The benchmark is seperated into a CSV file containing the corresponding questions, answer choices, and implicit and explicit containing all 300 testing images and an annotation csv file with questions and correct answers. The format of the data is:
 ```
-├── Dataset CSV
+├── AMVICC CSV
 │   ├── id, category, question, answer_choices, answer, prompt_im, prompt_ex, expected
 │   ├── 1,sc,Are the butterfly's wings closer to being open or closed?,(a) Open (b) Closed,(a),generate a butterfly in a natural outdoor setting,generate a butterfly flying in a sunny meadow with wings fully spread
 │   ├── 2,sc,Are the butterfly's wings closer to being open or closed?,(a) Open (b) Closed,(b),generate a butterfly in a natural outdoor setting,generate a butterfly resting on a flower with wings folded closed
