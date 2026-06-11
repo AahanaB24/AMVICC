@@ -7,7 +7,7 @@ id,category,question,answer_choices,answer,prompt_im,prompt_ex,expected
 6,od,Is the dog facing left or right from the camera's perspective?,(a) Left (b) Right,(b),generate a dog in a sitting position,generate a golden retriever sitting and looking toward the right side
 7,od,Is the school bus driving towards or away from the camera?,(a) Towards the camera (b) Away from the camera,(a),generate a school bus on a road,generate a yellow school bus driving directly toward the viewer on a road
 8,od,Is the school bus driving towards or away from the camera?,(a) Towards the camera (b) Away from the camera,(b),generate a school bus on a road,generate a yellow school bus driving away from the viewer showing the back
-9,tx,Can you see the key "Z" in the image?,(a) Yes (b) No,(a),generate a computer keyboard,generate a computer keyboard with the Z key clearly visible and highlighted
+9,tx,Can you see the key 'Z' in the image?,(a) Yes (b) No,(a),generate a computer keyboard,generate a computer keyboard with the Z key clearly visible and highlighted
 10,tx,Can you see the key "Z" in the image?,(a) Yes (b) No,(b),generate a computer keyboard,generate a computer keyboard photographed at an angle where the Z key is hidden
 11,sc,Has the peacock opened its tail?,(a) Yes (b) No,(a),generate a male peacock,generate a male peacock displaying its magnificent tail feathers in full spread
 12,sc,Has the peacock opened its tail?,(a) Yes (b) No,(b),generate a male peacock,generate a male peacock walking with its tail feathers folded down
