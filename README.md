@@ -44,7 +44,7 @@ The above code is specific to each model outlined but can be adjusted to work fo
 <img width="559" height="446" alt="image" src="https://github.com/user-attachments/assets/3634d3ba-f3e8-4d2b-a40a-405213be20e1" />
 
 ### AMVICC Bechmark
-Our AMVICC Benchmark is available [here]([https://github.com/AahanaB24/AMVICC/blob/main/scripts/AMVICC.csv). It is specially crafted to measure **multimodal LLM's** visual capability via VQA and **image generation model's** visual capabilities through image generation. 
+Our AMVICC Benchmark is available [here]([href]https://github.com/AahanaB24/AMVICC/blob/main/scripts/AMVICC.csv). It is specially crafted to measure **multimodal LLM's** visual capability via VQA and **image generation model's** visual capabilities through image generation. 
 The benchmark is seperated into a CSV file containing the corresponding questions, answer choices, and implicit and explicit containing all 300 testing images and an annotation csv file with questions and correct answers. The format of the data is:
 ```
 ├── Dataset CSV
